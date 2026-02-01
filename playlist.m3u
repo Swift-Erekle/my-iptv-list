@@ -431,30 +431,32 @@ https://mhd116.iptv2022.com/x/pDoHVa-hK8BxgkV0v_DINA,1768334109/streaming/luxury
 
 
 
+#EXTM3U
+
 # 1 TV
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}" tvg-id="1TV GE" group-title="Georgia", 1 TV (პირველი არხი)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="${URL}?utc=${start}" tvg-id="1TV GE" group-title="Georgia", 1 TV (პირველი არხი)
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 
 # GDS
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}" tvg-id="GDS GE" group-title="Georgia", GDS
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="${URL}?utc=${start}" tvg-id="GDS GE" group-title="Georgia", GDS
 https://live1.mar.tv/2c89b483dd85b855810231ede0789a753c8d51d9624bcc88a2ca2ab733f2ee59/13sd/index.m3u8
 
 # Imedi
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}" tvg-id="Imedi GE" group-title="Georgia", Imedi (იმედი)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="${URL}?utc=${start}" tvg-id="Imedi GE" group-title="Georgia", Imedi (იმედი)
 https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
 
 # Rustavi 2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&utc=${start}" tvg-id="Rustavi2 GE" group-title="Georgia", Rustavi 2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="${URL}&utc=${start}" tvg-id="Rustavi2 GE" group-title="Georgia", Rustavi 2
 https://tbs01-edge19.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8?token=GQuPCRSfk7H5-RFvZuvM0l_17vcOQV6T4Dz7LSX08Cp7gkvX7TKio3ynhkpgTbKyCA-imrRbBtTeU8QAVHzNsjwWN0RsgyJ-k5YYRMLTLToFjGc9xT7SLaGElAIAZHNbyM83br9NFXyTCKkN_Usseit05Qj0X_eHMd5gYBcT-7L1L9N6HlpEdsiLFVpaylovag3SH1krdhUsiUHxp8qJqZALIkZi0YIuOdY6f4QntNPNvWRZ2PyjYcujdIk_40SYtZ030P5xe2pGMxFeR5Um1qkfIIpqHpzjJ2bV2fclZZjlQbf300pfPkSz5uk_rqW8
 
 # TV Pirveli
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&utc=${start}" tvg-id="Pirveli GE" group-title="Georgia", TV Pirveli
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="${URL}&utc=${start}" tvg-id="Pirveli GE" group-title="Georgia", TV Pirveli
 https://tbs01-edge34.itdc.ge/pirvelitv/tracks-v1a1/mono.m3u8?token=tJUbsJ6Bpv5zRwEl0ks9tJGnr4FhGWaPJdmudaBYYwAv7OELCKUXJQT_IHcsHPpvdg26qcwFaw1DjIhfscw8tHU9PgdLzGUJezs0MjZK6NuA8NPQlxTAxi14MmciHLwx5jZ0UQKDMffcoOrlrQhrFNzWIvJBWuxgG8613r_ZHenRyRfqy5zfst2VZT6q82WFiH2uUhbIIjws5jW-H3S-WQHUqjZy0rQeSk_5i90kTR9d6h0OcG51nTqF4_jo1B42Qq16JjD5AJVT_DP3OklilWQqrSwkaGK3Jnfm_RDgiwfKERelgTv31fKYDEsu_xRu
 
 # Formula
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&utc=${start}" tvg-id="Formula GE" group-title="Georgia", Formula
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="${URL}&utc=${start}" tvg-id="Formula GE" group-title="Georgia", Formula
 https://tbs01-edge32.itdc.ge/formula/tracks-v1a1/mono.m3u8?token=u0xRFAZDfS1wS1C_6dPp2YwlAaut7s3EI9l_ADzmsv8SWeL8FduG-dN1id8zxNER9A691Hfo5r4prSaHLWFALlM-tZxI8xfPDijAxCrJBm4qYWmtPTv3-YtsJmYT2i2MDqKCecONKMsHX6bxjfHaWvhyLii_n35R4De-NQGMMWYOOsGFnzVJnfwAX8PDUpE1Vwm2NQ_Am97-YQ3NDkLsgwT0EnEFQS6OSEW2pQjRObc0960jRYOb543XuD-cl21zsbGMnkCWkwlBByk-Gg7zYT5daK-TF6ruifqdw4kNoosKmHF9ePY4foLDABN-EKo6
 
 # Comedy Arkhi
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&utc=${start}" tvg-id="Comedy GE" group-title="Georgia", Comedy Arkhi
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="${URL}&utc=${start}" tvg-id="Comedy GE" group-title="Georgia", Comedy Arkhi
 https://tbs01-edge34.itdc.ge/comedy/tracks-v1a1/mono.m3u8?token=pAvvbR40ao5yV-YmzA7_niQRajK7DM22HQPkcWzII0n_jRuiaNvyFjGhyi0mZI1iI1O3FZH3NEZxpGkCm7nVwTUVyJZur-9aggHlPy8Yklqhtq4SmmCKPgH1Io89JL5EP4P4RAKgNeRpcu1-Wxf6ZfKMz9seAtjh2ErV3Kg6Q8P-ftJPNJAqtQdwJSDEUWwbmgR5jTei5bGiKx0sFDN1PhGU9xRfbGWXzeZ0_xJnhVhqDjLvioypJAwI1e_sPt5oBFliIMGkEEu4S6to-Ybt4gSJES5TMBJ-WugtzHPx8OpPbAWMLxKdXs5Nc50uBrXb
