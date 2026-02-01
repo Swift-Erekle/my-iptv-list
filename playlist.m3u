@@ -434,21 +434,21 @@ https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Georgia",Imedi (იმედი)
 https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Georgia",Rustavi 2 (რუსთავი 2)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTV)
-https://r2-live.cdn.itv.re/r2/index.m3u8
 
-#EXTINF:-1 group-title="Georgia",Formula (ფორმულა)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTV)
-https://formula-live.cdn.itv.re/formula/index.m3u8
+#EXTINF:-1 group-title="Georgia", Rustavi 2 (რუსთავი 2)
+https://edge-rustavi2-live.cdn.v6.itv.re/rustavi2/index.m3u8
 
-#EXTINF:-1 group-title="Georgia",TV Pirveli (ტვ პირველი)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTV)
-https://tv1-live.cdn.itv.re/tv1/index.m3u8
+#EXTINF:-1 group-title="Georgia", Formula (ფორმულა)
+https://edge-formula-live.cdn.v6.itv.re/formula/index.m3u8
 
-#EXTINF:-1 group-title="Georgia",Comedy Arkhi (კომედი არხი)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTV)
-https://comedy-live.cdn.itv.re/comedy/index.m3u8
+#EXTINF:-1 group-title="Georgia", TV Pirveli (ტვ პირველი)
+https://edge-tvpirveli-live.cdn.v6.itv.re/tvpirveli/index.m3u8
+
+#EXTINF:-1 group-title="Georgia", Comedy Arkhi (კომედი არხი)
+https://edge-comedy-live.cdn.v6.itv.re/comedy/index.m3u8
+
+#EXTINF:-1 group-title="Georgia", Marao (მარაო)
+https://edge-marao-live.cdn.v6.itv.re/marao/index.m3u8
 
 #EXTINF:-1 group-title="Georgia",Marao (მარაო)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; AFTV)
