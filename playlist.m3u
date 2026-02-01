@@ -433,24 +433,22 @@ http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 
 
 #EXTINF:-1 group-title="Georgia",1 TV (პირველი არხი)
-https://1tv.live.cdn.video.ge/1tv/index.m3u8
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Georgia",2 TV (მეორე არხი)
-https://2tv.live.cdn.video.ge/2tv/index.m3u8
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Georgia",Imedi (იმედი)
-https://imedi.live.cdn.video.ge/imedi/index.m3u8
+https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Georgia",Rustavi 2 (რუსთავი 2)
-https://rustavi2.live.cdn.video.ge/rustavi2/index.m3u8
+http://r2.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
 #EXTINF:-1 group-title="Georgia",Mtavari (მთავარი არხი)
-https://mtavari.live.cdn.video.ge/mtavari/index.m3u8
-#EXTINF:-1 group-title="Georgia",TV Pirveli (ტვ პირველი)
-https://tvpirveli.live.cdn.video.ge/tvpirveli/index.m3u8
+https://tv.cdn.xsg.ge/mtavari/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Georgia",Formula (ფორმულა)
-https://formula.live.cdn.video.ge/formula/index.m3u8
-#EXTINF:-1 group-title="Georgia",GDS
-https://gds.live.cdn.video.ge/gds/index.m3u8
-#EXTINF:-1 group-title="Georgia",Maestro (მაესტრო)
-https://maestro.live.cdn.video.ge/maestro/index.m3u8
+https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Georgia",TV Pirveli (ტვ პირველი)
+http://l105.hls.iptv.ge/hls/tvpirveli/index.m3u8
+#EXTINF:-1 group-title="Georgia",Marao (მარაო)
+http://tv-tbs-grt-front-1.adjara.com/4w/marao/mono.m3u8
+#EXTINF:-1 group-title="Georgia",Comedy Arkhi (კომედი არხი)
+http://tv-tbs-grt-front-1.adjara.com/4w/comedyge/mono.m3u8
 #EXTINF:-1 group-title="Georgia",PosTV
-https://postv.live.cdn.video.ge/postv/index.m3u8
-#EXTINF:-1 group-title="Georgia",Adjara TV (აჭარა)
-https://adjaratv.live.cdn.video.ge/adjaratv/index.m3u8
+https://tv.cdn.xsg.ge/postv/tracks-v1a1/mono.m3u8
