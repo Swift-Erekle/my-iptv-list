@@ -474,19 +474,26 @@ http://ic7.101.ru:8000/v3_1
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 
 
-#EXTINF:-1, პირველი არხი (1TV)
-https://1tv.live.v6.itv.re/1tv/index.m3u8
-#EXTINF:-1, იმედი (Imedi TV)
-https://imedi.live.v6.itv.re/imedi/index.m3u8
-#EXTINF:-1, რუსთავი 2 (Rustavi 2)
-https://r2.live.v6.itv.re/r2/index.m3u8
-#EXTINF:-1, მთავარი არხი (Mtavari)
-https://mtavari.live.v6.itv.re/mtavari/index.m3u8
-#EXTINF:-1, ტვ პირველი (TV Pirveli)
-https://tv1.live.v6.itv.re/tv1/index.m3u8
-#EXTINF:-1, ფორმულა (Formula)
-https://formula.live.v6.itv.re/formula/index.m3u8
-#EXTINF:-1, პოსტ ტვ (PosTV)
-https://postv.live.v6.itv.re/postv/index.m3u8
-#EXTINF:-1, მაესტრო (Maestro)
-https://maestro.live.v6.itv.re/maestro/index.m3u8
+
+#EXTINF:-1 group-title="Georgia",1 TV (პირველი არხი)
+https://1tv.live.cdn.video.ge/1tv/index.m3u8
+#EXTINF:-1 group-title="Georgia",2 TV (მეორე არხი)
+https://2tv.live.cdn.video.ge/2tv/index.m3u8
+#EXTINF:-1 group-title="Georgia",Imedi (იმედი)
+https://imedi.live.cdn.video.ge/imedi/index.m3u8
+#EXTINF:-1 group-title="Georgia",Rustavi 2 (რუსთავი 2)
+https://rustavi2.live.cdn.video.ge/rustavi2/index.m3u8
+#EXTINF:-1 group-title="Georgia",Mtavari (მთავარი არხი)
+https://mtavari.live.cdn.video.ge/mtavari/index.m3u8
+#EXTINF:-1 group-title="Georgia",TV Pirveli (ტვ პირველი)
+https://tvpirveli.live.cdn.video.ge/tvpirveli/index.m3u8
+#EXTINF:-1 group-title="Georgia",Formula (ფორმულა)
+https://formula.live.cdn.video.ge/formula/index.m3u8
+#EXTINF:-1 group-title="Georgia",GDS
+https://gds.live.cdn.video.ge/gds/index.m3u8
+#EXTINF:-1 group-title="Georgia",Maestro (მაესტრო)
+https://maestro.live.cdn.video.ge/maestro/index.m3u8
+#EXTINF:-1 group-title="Georgia",PosTV
+https://postv.live.cdn.video.ge/postv/index.m3u8
+#EXTINF:-1 group-title="Georgia",Adjara TV (აჭარა)
+https://adjaratv.live.cdn.video.ge/adjaratv/index.m3u8
