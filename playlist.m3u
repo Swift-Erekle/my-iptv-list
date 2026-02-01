@@ -436,9 +436,14 @@ https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Georgia",Rustavi 2 (რუსთავი 2)
-http://tv-tbs-grt-front-1.adjara.com/4w/rustavi2hd/mono.m3u8
+https://r2.live.v6.itv.re/r2/index.m3u8
+
+#EXTINF:-1 group-title="Georgia",Formula (ფორმულა)
+https://formula.live.v6.itv.re/formula/index.m3u8
 
 #EXTINF:-1 group-title="Georgia",TV Pirveli (ტვ პირველი)
-http://tv-tbs-grt-front-1.adjara.com/4w/tv1/mono.m3u8
+https://tv1.live.v6.itv.re/tv1/index.m3u8
 
+#EXTINF:-1 group-title="Georgia",Comedy Arkhi (კომედი არხი)
+https://comedy.live.v6.itv.re/comedy/index.m3u8
 
