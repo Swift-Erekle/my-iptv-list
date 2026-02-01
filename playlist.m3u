@@ -33,29 +33,6 @@ http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
 #EXTINF:-1 tvg-id="2011" tvg-logo="http://epg.one/img2/2011.png", Ani
 http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="365" tvg-logo="http://epg.one/img2/365.png", Animal Planet
-http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
-
-#EXTINF:-1 tvg-id="9645" tvg-logo="http://epg.one/img2/9645.png", Animal Planet (Alt)
-https://livetv.mylifeisgood.net.ru/channels/animalplanethd.m3u8
-
-#EXTINF:-1 tvg-id="8026" tvg-logo="http://epg.one/img2/8026.png", Asharq News HD
-http://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="4765" tvg-logo="http://epg.one/img2/4765.png", BCU Stars HD
-http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
-
-#EXTINF:-1 tvg-id="2144" tvg-logo="http://epg.one/img2/2138.png", BOLT
-http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg4MTgxODUsImlhdCI6MTc2ODczMTc4NSwiY2lkIjo2LCJ1aWQiOjk5MTA0NDU2MiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.beTLSiD1dIeOLi9CkSHrZvU1U4X2J305k0Puve0DEmA&offset=10
-
-#EXTINF:-1 tvg-id="3905" tvg-logo="http://epg.one/img2/3905.png", BOOMERANG
-http://176.118.197.125/Boomerang/index.m3u8
-
-#EXTINF:-1 tvg-id="2650" tvg-logo="http://epg.one/img2/2650.png", Bolajon
-https://iptv.itv.uz/hls/live/t/abU-90TTUL-gAVoxpcKVeQ/e/1768818191/1007/index.m3u8?ip=213.183.53.193
-
-#EXTINF:-1 tvg-id="1395" tvg-logo="http://epg.one/img2/1395.png", Bollywood HD
-http://arbiter.bolshoe.tv/?path=abr1/BollywoodHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDI2IDEwOjIzOjA2IEFNJmhhc2hfdmFsdWU9bmZTKzRYdkRXRjdmckxxekN6K0duUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 
 #EXTINF:-1 tvg-id="601" tvg-logo="http://epg.one/img2/601.png", Cartoon Network
 http://176.118.197.101/Cartoon_Network/index.m3u8
@@ -63,42 +40,22 @@ http://176.118.197.101/Cartoon_Network/index.m3u8
 #EXTINF:-1 tvg-id="2754" tvg-logo="http://epg.one/img2/2754.png", Cinema
 http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
 
-#EXTINF:-1 tvg-id="410" tvg-logo="http://epg.one/img2/410.png", Da Vinci
-https://livetv.mylifeisgood.net.ru/channels/davinci.m3u8
 
 #EXTINF:-1 tvg-id="325" tvg-logo="http://epg.one/img2/325.png", Discovery Channel
 http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
 
-#EXTINF:-1 tvg-id="409" tvg-logo="http://epg.one/img2/409.png", Discovery Science
-https://livetv.mylifeisgood.net.ru/channels/discoveryscience.m3u8
 
-#EXTINF:-1 tvg-id="2186" tvg-logo="http://epg.one/img2/2186.png", DocuBox HD
-http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg4MTgxODUsImlhdCI6MTc2ODczMTc4NSwiY2lkIjo2LCJ1aWQiOjk5MTA0NDU2MiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.beTLSiD1dIeOLi9CkSHrZvU1U4X2J305k0Puve0DEmA&offset=10
 
-#EXTINF:-1 tvg-id="4902" tvg-logo="http://epg.one/img2/4902.png", EUROSPORT 1 HD
-http://178.212.71.253:8000/play/143/index.m3u8
 
 #EXTINF:-1 tvg-id="4903" tvg-logo="http://epg.one/img2/4903.png", EUROSPORT 2 HD
 https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 
-#EXTINF:-1 tvg-id="7641" tvg-logo="http://epg.one/img2/7641.png", English Club HD
-http://31.148.48.15:80/English_club_TV_HD/index.m3u8
-
 #EXTINF:-1 tvg-id="9054" tvg-logo="http://epg.one/img2/9054.png", Epic HD
 http://193.25.8.59:8000/dtx
 
-#EXTINF:-1 tvg-id="2359" tvg-logo="http://epg.one/img2/2359.png", FAN
-http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njg4MTgxODUsImlhdCI6MTc2ODczMTc4NSwiY2lkIjo2LCJ1aWQiOjk5MTA0NDU2MiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.beTLSiD1dIeOLi9CkSHrZvU1U4X2J305k0Puve0DEmA&offset=10
 
 #EXTINF:-1 tvg-id="2362" tvg-logo="http://epg.one/img2/2362.png", FAST&FUN BOX HD
 http://193.25.8.59:8000/Avto24
-
-#EXTINF:-1 tvg-id="6683" tvg-logo="http://epg.one/img2/6683.png", FOX NEWS
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-
-#EXTINF:-1 tvg-id="2127" tvg-logo="http://epg.one/img2/2127.png", FRANCE 24 ENG
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
