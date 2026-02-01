@@ -1,68 +1,451 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="935" tvg-logo="http://epg.one/img2/935.png", Sony Turbo
+http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="311" tvg-logo="http://epg.one/img2/311.png", Channel Red
+#EXTINF:-1 tvg-id="311" tvg-logo="http://epg.one/img2/311.png", Channel Red
 http://193.25.8.59:8000/set
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="516" tvg-logo="http://epg.one/img2/516.png", SCI-FI
+#EXTINF:-1 tvg-id="516" tvg-logo="http://epg.one/img2/516.png", SCI-FI
 http://176.118.197.125/SCI-FI/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="2578" tvg-logo="http://epg.one/img2/2578.png", 24 KZ
+#EXTINF:-1 tvg-id="2578" tvg-logo="http://epg.one/img2/2578.png", 24 KZ
 http://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="2265" tvg-logo="http://epg.one/img2/2265.png", Channel 360
+#EXTINF:-1 tvg-id="2265" tvg-logo="http://epg.one/img2/2265.png", Channel 360
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="3961" tvg-logo="http://epg.one/img2/3961.png", A2
+#EXTINF:-1 tvg-id="3961" tvg-logo="http://epg.one/img2/3961.png", A2
 http://31148.rafail1982.uz/A2/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="3839" tvg-logo="http://epg.one/img2/3839.png", AKİT TV HD
+#EXTINF:-1 tvg-id="3839" tvg-logo="http://epg.one/img2/3839.png", AKİT TV HD
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="2007" tvg-logo="http://epg.one/img2/2007.png", AMEDIA HIT
+#EXTINF:-1 tvg-id="2007" tvg-logo="http://epg.one/img2/2007.png", AMEDIA HIT
 http://45.145.32.13:20440/mama/index.m3u8?token=test
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="2067" tvg-logo="http://epg.one/img2/2067.png", ATV News
+#EXTINF:-1 tvg-id="2067" tvg-logo="http://epg.one/img2/2067.png", ATV News
 http://45.11.139.43:8555/atv/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="1371" tvg-logo="http://epg.one/img2/1371.png", Amedia 1
+#EXTINF:-1 tvg-id="1371" tvg-logo="http://epg.one/img2/1371.png", Amedia 1
 http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="2011" tvg-logo="http://epg.one/img2/2011.png", Ani
+#EXTINF:-1 tvg-id="2011" tvg-logo="http://epg.one/img2/2011.png", Ani
 http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="601" tvg-logo="http://epg.one/img2/601.png", Cartoon Network
+
+#EXTINF:-1 tvg-id="601" tvg-logo="http://epg.one/img2/601.png", Cartoon Network
 http://176.118.197.101/Cartoon_Network/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="2754" tvg-logo="http://epg.one/img2/2754.png", Cinema
+#EXTINF:-1 tvg-id="2754" tvg-logo="http://epg.one/img2/2754.png", Cinema
 http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="325" tvg-logo="http://epg.one/img2/325.png", Discovery Channel
+
+#EXTINF:-1 tvg-id="325" tvg-logo="http://epg.one/img2/325.png", Discovery Channel
 http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="4903" tvg-logo="http://epg.one/img2/4903.png", EUROSPORT 2 HD
+
+
+
+#EXTINF:-1 tvg-id="4903" tvg-logo="http://epg.one/img2/4903.png", EUROSPORT 2 HD
 https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="9054" tvg-logo="http://epg.one/img2/9054.png", Epic HD
+#EXTINF:-1 tvg-id="9054" tvg-logo="http://epg.one/img2/9054.png", Epic HD
 http://193.25.8.59:8000/dtx
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="2362" tvg-logo="http://epg.one/img2/2362.png", FAST&FUN BOX HD
+
+#EXTINF:-1 tvg-id="2362" tvg-logo="http://epg.one/img2/2362.png", FAST&FUN BOX HD
 http://193.25.8.59:8000/Avto24
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" group-title="Georgia", Imedi
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Общественные",360° HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv-ru" tvg-logo="https://iptvx.one/picons/cctv-ru.png" group-title="Общественные",CGTN
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="rtvi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Общественные",RTVi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.134.1.158:8081/rtvi/index.m3u8
+#EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Общественные",TV BRICS HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="belarus1" tvg-logo="https://iptvx.one/picons/belarus1hd.png" group-title="Общественные",Беларусь 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
+#EXTINF:-1 tvg-id="tro" tvg-logo="https://iptvx.one/picons/belros.png" group-title="Общественные",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="vremia" tvg-logo="https://iptvx.one/picons/vremia.png" group-title="Общественные",Время
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Общественные",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="kongresstv" tvg-logo="https://iptvx.one/picons/kongresstv.png" group-title="Общественные",Конгресс ТВ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/agGJ8hV9JCETv9c-wN-gqQ,1768334109/streaming/tvkongres/324/1/index.m3u8
+#EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="Общественные",Красная линия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="Общественные",Неизвестная Россия HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" group-title="Общественные",НТВ Беларусь
+http://194.158.222.36:6107
+#EXTINF:-1 tvg-id="ont-by" tvg-logo="https://iptvx.one/picons/ont-by.png" group-title="Общественные",ОНТ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://a0925677.xsph.ru/hls/blrus/CH_OHTHD.m3u8
+#EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/bFOd04ouBuq_Xd1Gc3JSFw,1768334109/streaming/otr/324/5/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://iptvx.one/picons/prnk-tv.png" group-title="Общественные",ПРНК HD
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Общественные",Пятый канал
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/67Lsxm3a-0jsGH-nzs9NJQ,1768334109/streaming/5kanalott/324/5/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="ratnik" tvg-logo="https://iptvx.one/picons/ratnik.png" group-title="Общественные",Ратник HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/nvyvKGmf2YYGVYBnPpZ_6Q,1768334109/streaming/ratnik/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Общественные",Рен ТВ HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/FVb2BEim-gIb0IfMD4fW_Q,1768334109/streaming/rentvott/324/5/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="stv-by" tvg-logo="https://iptvx.one/picons/stv-by.png" group-title="Общественные",CTV.BY HD
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vod.splay.uz/live_splay/original/TV3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общественные",ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="360-news" tvg-logo="https://iptvx.one/picons/360-news.png" group-title="Информационные",360° Новости HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Информационные",RTД HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/wDM_obi-9GzO7XFzqwhqvw,1768334109/streaming/rtdhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="belarus24" tvg-logo="https://iptvx.one/picons/belarus24.png" group-title="Информационные",Беларусь 24 HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/A0kipaBtCEeU_p75e5vrVg,1768334109/streaming/belarus24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="Информационные",ВМЕСТЕ:РФ HD
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Информационные",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-id="krik-tv" tvg-logo="https://iptvx.one/picons/krik-tv.png" group-title="Информационные",Крик ТВ HD
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 tvg-id="lot-47" tvg-logo="https://iptvx.one/picons/lot-47.png" group-title="Информационные",Лен ТВ 24
+https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="Информационные",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-title="Информационные",М24
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:-1 tvg-id="doverie" tvg-logo="https://iptvx.one/picons/doverie.png" group-title="Информационные",Москва Доверие
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-info-by" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="Информационные",Первый информационный HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-id="pro-business" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="Информационные",Про бизнес
+http://176.107.219.20:9000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Информационные",Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Информационные",РБК HD
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Информационные",Соловьев.Live HD
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://epg.one/img2/2136.png" group-title="Христианские",Life TV
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+#EXTINF:-1 tvg-id="nadezhda" tvg-logo="https://iptvx.one/picons/nadezhda.png" group-title="Христиანские",Надежда HD
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8?hls_proxy_host=5edf215ae950326c87f8788991c1ffc7
+#EXTINF:-1 tvg-id="muzsoyuz" tvg-logo="https://iptvx.one/picons/muzsoyuz.png" group-title="Христиანские",МузСоюз HD
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-id="soyuz" tvg-logo="https://iptvx.one/picons/soyuz.png" group-title="Христиანские",Союз HD
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" group-title="Христиანские",Спас
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/i16Mr_jDq-FF0mECYzfLgQ,1768334109/streaming/spas/324/5/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Детские",Ani
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 tvg-id="da-vinci" tvg-logo="https://iptvx.one/picons/da-vinci.png" group-title="Детские",Da Vinci
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-logo="https://iptvx.one/picons/detkinoint-tviksel.png" group-title="Детские",Детское кино Int.
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-id="detsky-mir" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group-title="Детские",Детский мир
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/lkaTcEqZlBMVKATr42FnwQ,1768334109/streaming/detmir/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские",Карусель Int.
+https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские",Мульт HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://iptvx.one/picons/multimuzyka.png" group-title="Детские",МУЛЬТиМУЗЫКА
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/116/index.m3u8
+#EXTINF:-1 tvg-id="multimania" tvg-logo="https://iptvx.one/picons/multimania.png" group-title="Детские",Мультиландия
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/lT8-xdBQnFwDbIb9IyLqmg,1768334109/streaming/multimania/324/1/index.m3u8
+#EXTINF:-1 tvg-id="o_" tvg-logo="https://iptvx.one/picons/o_.png" group-title="Детские",О!
+http://95.66.188.74:80/O/mono.m3u8
+#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="Детские",Рыжий
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://iptvx.one/picons/smaylik-tv.png" group-title="Детские",Смайл ТВ HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/wTUZtuQeZY7FZuIYNzVn8w,1768334109/streaming/smile/324/1/index.m3u8
+#EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="Детские",Солнце
+https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="Детские",СТС Kids
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://195.26.83.96:7006/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="7tv" tvg-logo="https://iptvx.one/picons/7tv.png" group-title="Развлекательные",7 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="e-tv" tvg-logo="https://iptvx.one/picons/e-tv.png" group-title="Развлекательные",E HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="gags-network" tvg-logo="https://iptvx.one/picons/gags-network.png" group-title="Развлекательные",Gags Network
+http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
+#EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-title="Развлекательные",Вопросы и ответы
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.212.71.253:8000/play/97/index.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Развлекательные",Домашний HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/sy0L83S5cBk8x9I-j5h9mQ,1768334109/streaming/domashiyott/324/5/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="zal-suda" tvg-logo="https://iptvx.one/picons/zal-suda.png" group-title="Развлекательные",Зал суда
+http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="kluch" tvg-logo="https://iptvx.one/picons/kluch.png" group-title="Развлекательные",Ключ
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="Развлекательные",НТВ Право
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://iptvx.one/picons/prodvizhenie.png" group-title="Развлекательные",Продвижение
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/8s_uqIHu4sYejniOZgRquw,1768334109/streaming/prodvijenie/324/1/index.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные",Пятница! HD
+http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные",СТС HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/Upm3PsrrtgjXNhEL8zZIYw,1768334109/streaming/stsott/324/5/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС Int.
+http://158.101.222.193:88/georgia_play.php?id=ctctv
+#EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Суббота HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/TRPVpkfeVEygBwIzv_u-2w,1768334109/streaming/superott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="tolk" tvg-logo="https://iptvx.one/picons/tolk.png" group-title="Развлекательные",Толк
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/1AaeWgTkRpWO9irTvEp48g,1768334109/streaming/tntott/324/5/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="https://iptvx.one/picons/tnt-int-eu.png" group-title="Развлекательные",ТНТ Int.
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 tvg-id="tcb" tvg-logo="https://iptvx.one/picons/tcb.png" group-title="Развлекательные",ТСВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://iptvx.one/picons/centralnoye-tv.png" group-title="Развлекательные",Центральное ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://178.212.71.253:8000/play/41/index.m3u8
+#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://iptvx.one/picons/bridge-tv.png" group-title="Музыкальные",Bridge
+http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png" group-title="Музыкальные",Bridge Classic
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_TV_Hits
+#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="https://iptvx.one/picons/bridge-tv-rock.png" group-title="Музыкальные",Bridge Rock
+http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:-1 tvg-id="clubbing-tv" tvg-logo="https://iptvx.one/picons/clubbing-tv.png" group-title="Музыкальные",Clubbing HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/hkccihclY17u-aXJh-YKmw,1768334109/streaming/clubbingtv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="trace-urban" tvg-logo="https://iptvx.one/picons/bridge-tv-rock.png" group-title="Музыкальные",Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="Музыкальные",RU TV HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 tvg-id="zhar-ptica" tvg-logo="https://iptvx.one/picons/zhar-ptica.png" group-title="Музыкальные",Жარ-Птица
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 tvg-id="zhara" tvg-logo="https://iptvx.one/picons/zhara.png" group-title="Музыкальные",Жара
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIKe5vA.png" group-title="Музыкальные",Музыка 1 International [не 24/7]
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="Музыкальные",Музыка Первого
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
+#EXTINF:-1 tvg-id="onemuz" tvg-logo="https://iptvx.one/picons/1muz.png" group-title="Музыкальные",Первый музыкальный HD
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="Музыкальные",Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="Музыкальные",ТНТ Music HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/UiQSofoQ3lGs18p7PHANTQ,1768334109/streaming/tntmusic/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="Музыкальные",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Кино и сериалы",.black
+http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://iptvx.one/picons/sony.png" group-title="Кино и сериалы",.red
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="Кино и сериалы",Amedia 1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="Кино и сериалы",Amedia 2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="Кино и сериалы",Amedia Hit
+http://158.101.222.193:88/georgia_play.php?id=amediahit
+#EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Кино и сериалы",Amedia Premium HD
+http://195.158.223.132:8009/Amedia_Premium
+#EXTINF:-1 tvg-id="timeless-dizi" tvg-logo="https://iptvx.one/picons/timeless-dizi.png" group-title="Кино и сериалы",Dizi
+http://188.237.47.212:6008
+#EXTINF:-1 tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png" group-title="Кино и сериалы",FlixSnip
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-id="novellatv" tvg-logo="https://iptvx.one/picons/novellatv.png" group-title="Кино и сериалы",Novella TV HD
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 tvg-id="start-world" tvg-logo="https://iptvx.one/picons/start-world.png" group-title="Кино и сериалы",Start World HD
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 tvg-id="scream" tvg-logo="https://iptvx.one/picons/scream.png" group-title="Кино и сериалы",Scream HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94865.m3u8
+#EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="Кино и сериалы",VHS-ка
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://95.66.188.74/VHS/index.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Кино и сериалы",Viju TV1000
+http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
+#EXTINF:-1 tvg-id="kino-bez-granic" tvg-logo="https://iptvx.one/picons/kino-bez-granic.png" group-title="Кино и сериалы",Кино без границ
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кино и сериалы",Кино ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="Кино и сериалы",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Кино и сериалы",НТВ Хит
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 tvg-id="patriot" tvg-logo="https://iptvx.one/picons/patriot.png" group-title="Кино и сериалы",Патриот
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Кино и сериалы",Победа
+http://178.212.71.253:8000/play/90/index.m3u8
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="Кино и сериалы",Русский Иллюзион
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://195.26.83.96:7006/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="feniks-plus-kino" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png" group-title="Кино и сериалы",Феникს плюс кино HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы",Alpha Funny
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы",Alpha Moretime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 group-title="Кинозалы",IPTVPLAY ФАНТАСТИКА HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://iptv-play.ru/channels/all_icons/6823.png" group-title="Кинозалы",IPTVPLAY ИНТЕРНЫ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Кинозалы",IPTVPLAY МУЛЬТСКАЗКИ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Кинозалы",IPTVPLAY ПАМЯТЬ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Кинозалы",IPTVPLAY УЖАСТИК HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Кинозалы",IPTVPLAY ВЕДЬМАК HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://iptv-play.ru/channels/all_icons/10851.png" group-title="Кинозалы",IPTVPLAY Великая Отечественная HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Кинозалы",Retrovision
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",Retrovision Motor
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",Retrovision Movies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://162.212.179.43/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Кинозалы",Retrovision Classic
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://162.212.179.43/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",Retrovision Кинопанорама
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.hhcdn.ru/employer-logo/446267.png" group-title="Кинозалы",Star Media
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://162.212.179.43/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ow2Pawt.png" group-title="Movies",Малдер Мегахит [не 24/7]
+https://v2.catcast.tv/content/47689/index.m3u8
+#EXTINF:-1 tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" group-title="Кинозалы",Смотрим (Кино и сериалы)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="Спортивные",Viju+ sport
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://178.134.1.158:8081/viasatsport/index.m3u8
+#EXTINF:-1 tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="Спортивные",Беларусь 5 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
+#EXTINF:-1 tvg-id="belarus5-inet" tvg-logo="https://iptvx.one/picons/belarus5-inet.png" group-title="Спортивные",Беларусь 5 Интернет HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="konny-mir" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="Спортивные",Конный Мир
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/ml0mtwjWkdH389YFZZmTHA,1768334109/streaming/matchott/324/5/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://iptvx.one/picons/mir-basketbola.png" group-title="Спортивные",Мир баскетбола
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://195.158.223.132:8003/Mir_Basketbola
+#EXTINF:-1 tvg-id="start-basket" tvg-logo="https://iptvx.one/picons/start-basket.png" group-title="Спортивные",Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/480p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Познавательные",Discovery HD
+https://livetv.mylifeisgood.net.ru/channels/discovery.m3u8
+#EXTINF:-1 tvg-id="univer-tv" tvg-logo="https://iptvx.one/picons/univer-tv.png" group-title="Познавательные",UNIVER HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="belarus3" tvg-logo="https://iptvx.one/picons/belarus3hd.png" group-title="Познавательные",Беларусь 3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="luxury-hd" tvg-logo="https://iptvx.one/picons/luxury-hd.png" group-title="Хобби и увлечения",Luxury HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/pDoHVa-hK8BxgkV0v_DINA,1768334109/streaming/luxury/324/1/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Georgia",1 TV (პირველი არხი)
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Georgia",2 TV (მეორე არხი)
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Georgia",Imedi (იმედი)
 https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" group-title="Georgia", 1 TV
-https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" group-title="Georgia", Rustavi 2
+#EXTINF:-1 group-title="Georgia", Rustavi 2
 https://tbs01-edge19.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8?token=GQuPCRSfk7H5-RFvZuvM0l_17vcOQV6T4Dz7LSX08Cp7gkvX7TKio3ynhkpgTbKyCA-imrRbBtTeU8QAVHzNsjwWN0RsgyJ-k5YYRMLTLToFjGc9xT7SLaGElAIAZHNbyM83br9NFXyTCKkN_Usseit05Qj0X_eHMd5gYBcT-7L1L9N6HlpEdsiLFVpaylovag3SH1krdhUsiUHxp8qJqZALIkZi0YIuOdY6f4QntNPNvWRZ2PyjYcujdIk_40SYtZ030P5xe2pGMxFeR5Um1qkfIIpqHpzjJ2bV2fclZZjlQbf300pfPkSz5uk_rqW8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" group-title="Georgia", TV Pirveli
+#EXTINF:-1 group-title="Georgia", TV Pirveli
 https://tbs01-edge34.itdc.ge/pirvelitv/tracks-v1a1/mono.m3u8?token=tJUbsJ6Bpv5zRwEl0ks9tJGnr4FhGWaPJdmudaBYYwAv7OELCKUXJQT_IHcsHPpvdg26qcwFaw1DjIhfscw8tHU9PgdLzGUJezs0MjZK6NuA8NPQlxTAxi14MmciHLwx5jZ0UQKDMffcoOrlrQhrFNzWIvJBWuxgG8613r_ZHenRyRfqy5zfst2VZT6q82WFiH2uUhbIIjws5jW-H3S-WQHUqjZy0rQeSk_5i90kTR9d6h0OcG51nTqF4_jo1B42Qq16JjD5AJVT_DP3OklilWQqrSwkaGK3Jnfm_RDgiwfKERelgTv31fKYDEsu_xRu
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" group-title="Georgia", Formula
+#EXTINF:-1 group-title="Georgia", Formula
 https://tbs01-edge32.itdc.ge/formula/tracks-v1a1/mono.m3u8?token=u0xRFAZDfS1wS1C_6dPp2YwlAaut7s3EI9l_ADzmsv8SWeL8FduG-dN1id8zxNER9A691Hfo5r4prSaHLWFALlM-tZxI8xfPDijAxCrJBm4qYWmtPTv3-YtsJmYT2i2MDqKCecONKMsHX6bxjfHaWvhyLii_n35R4De-NQGMMWYOOsGFnzVJnfwAX8PDUpE1Vwm2NQ_Am97-YQ3NDkLsgwT0EnEFQS6OSEW2pQjRObc0960jRYOb543XuD-cl21zsbGMnkCWkwlBByk-Gg7zYT5daK-TF6ruifqdw4kNoosKmHF9ePY4foLDABN-EKo6
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" group-title="Georgia", GDS
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp} group-title="Georgia"", GDS
 https://live1.mar.tv/2c89b483dd85b855810231ede0789a753c8d51d9624bcc88a2ca2ab733f2ee59/13sd/index.m3u8
+
+#EXTINF:-1 group-title="Georgia", Comedy Arkhi
+https://tbs01-edge34.itdc.ge/comedy/tracks-v1a1/mono.m3u8?token=pAvvbR40ao5yV-YmzA7_niQRajK7DM22HQPkcWzII0n_jRuiaNvyFjGhyi0mZI1iI1O3FZH3NEZxpGkCm7nVwTUVyJZur-9aggHlPy8Yklqhtq4SmmCKPgH1Io89JL5EP4P4RAKgNeRpcu1-Wxf6ZfKMz9seAtjh2ErV3Kg6Q8P-ftJPNJAqtQdwJSDEUWwbmgR5jTei5bGiKx0sFDN1PhGU9xRfbGWXzeZ0_xJnhVhqDjLvioypJAwI1e_sPt5oBFliIMGkEEu4S6to-Ybt4gSJES5TMBJ-WugtzHPx8OpPbAWMLxKdXs5Nc50uBrXb
