@@ -450,7 +450,7 @@ https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
 https://tbs01-edge19.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8?token=GQuPCRSfk7H5-RFvZuvM0l_17vcOQV6T4Dz7LSX08Cp7gkvX7TKio3ynhkpgTbKyCA-imrRbBtTeU8QAVHzNsjwWN0RsgyJ-k5YYRMLTLToFjGc9xT7SLaGElAIAZHNbyM83br9NFXyTCKkN_Usseit05Qj0X_eHMd5gYBcT-7L1L9N6HlpEdsiLFVpaylovag3SH1krdhUsiUHxp8qJqZALIkZi0YIuOdY6f4QntNPNvWRZ2PyjYcujdIk_40SYtZ030P5xe2pGMxFeR5Um1qkfIIpqHpzjJ2bV2fclZZjlQbf300pfPkSz5uk_rqW8
 
 # TV Pirveli — EPG id: Pirveli GE — catchup ჩართული (მუშაობდა შენთან)
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?start=${start}&end=${end}" tvg-id="Pirveli GE" tvg-logo="https://raw.githubusercontent.com/iFrez/EPG-EdemTV/master/img/2565.png" group-title="Georgia", TV Pirveli
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?start=${start}&duration=${duration}" tvg-id="2565" tvg-name="Pirveli GE" tvg-logo="https://raw.githubusercontent.com/iFrez/EPG-EdemTV/master/img/2565.png" group-title="Georgia", TV Pirveli
 https://tbs01-edge34.itdc.ge/pirvelitv/tracks-v1a1/mono.m3u8?token=tJUbsJ6Bpv5zRwEl0ks9tJGnr4FhGWaPJdmudaBYYwAv7OELCKUXJQT_IHcsHPpvdg26qcwFaw1DjIhfscw8tHU9PgdLzGUJezs0MjZK6NuA8NPQlxTAxi14MmciHLwx5jZ0UQKDMffcoOrlrQhrFNzWIvJBWuxgG8613r_ZHenRyRfqy5zfst2VZT6q82WFiH2uUhbIIjws5jW-H3S-WQHUqjZy0rQeSk_5i90kTR9d6h0OcG51nTqF4_jo1B42Qq16JjD5AJVT_DP3OklilWQqrSwkaGK3Jnfm_RDgiwfKERelgTv31fKYDEsu_xRu
 
 # Formula — EPG id: FORMULA GE — catchup ჩართული
