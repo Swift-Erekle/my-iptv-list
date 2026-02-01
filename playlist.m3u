@@ -444,7 +444,7 @@ https://tbs01-edge34.itdc.ge/pirvelitv/tracks-v1a1/mono.m3u8?token=tJUbsJ6Bpv5zR
 #EXTINF:-1 group-title="Georgia", Formula
 https://tbs01-edge32.itdc.ge/formula/tracks-v1a1/mono.m3u8?token=u0xRFAZDfS1wS1C_6dPp2YwlAaut7s3EI9l_ADzmsv8SWeL8FduG-dN1id8zxNER9A691Hfo5r4prSaHLWFALlM-tZxI8xfPDijAxCrJBm4qYWmtPTv3-YtsJmYT2i2MDqKCecONKMsHX6bxjfHaWvhyLii_n35R4De-NQGMMWYOOsGFnzVJnfwAX8PDUpE1Vwm2NQ_Am97-YQ3NDkLsgwT0EnEFQS6OSEW2pQjRObc0960jRYOb543XuD-cl21zsbGMnkCWkwlBByk-Gg7zYT5daK-TF6ruifqdw4kNoosKmHF9ePY4foLDABN-EKo6
 
-#EXTINF:-1 group-title="Georgia", GDS
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp} group-title="Georgia"", GDS
 https://live1.mar.tv/2c89b483dd85b855810231ede0789a753c8d51d9624bcc88a2ca2ab733f2ee59/13sd/index.m3u8
 
 #EXTINF:-1 group-title="Georgia", Comedy Arkhi
