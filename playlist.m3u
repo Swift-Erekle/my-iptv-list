@@ -473,4 +473,19 @@ http://ic7.101.ru:8000/v3_1
 #EXTINF:-1 tvg-id="dorozhnoe-radio" tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39A6tC0.png" group-title="Georgia",1 TV (პირველი არხი)
+https://1tv-live.cdn.itv.re/1tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uG5k9eR.png" group-title="Georgia",Rustavi 2 (რუსთავი 2)
+https://r2-live.cdn.itv.re/r2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8N4N4oO.png" group-title="Georgia",Imedi TV (იმედი)
+https://imedi-live.cdn.itv.re/imedi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xv3O9K5.png" group-title="Georgia",PosTV
+https://postv-live.cdn.itv.re/postv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Yf8Y8U.png" group-title="Georgia",Maestro (მაესტრო)
+https://maestro-live.cdn.itv.re/maestro/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5VbO7Wz.png" group-title="Georgia",TV Pirveli (ტვ პირველი)
+https://tv1-live.cdn.itv.re/tv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lz2zQ9r.png" group-title="Georgia",Mtavari Arkhi (მთავარი არხი)
+https://mtavari-live.cdn.itv.re/mtavari/index.m3u8
+#EXTINF:-1 group-title="Georgia",GDS TV
+https://gds-live.cdn.itv.re/gds/index.m3u8
