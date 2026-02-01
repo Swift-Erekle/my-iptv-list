@@ -428,8 +428,7 @@ https://mhd116.iptv2022.com/x/pDoHVa-hK8BxgkV0v_DINA,1768334109/streaming/luxury
 
 
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="1 TV" group-title="Georgia", 1 TV (პირველი არხი)
-https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="2 TV" group-title="Georgia", 2 TV (მეორე არხი)
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
