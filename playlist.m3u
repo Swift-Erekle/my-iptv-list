@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="935" tvg-logo="http://epg.one/img2/935.png", Sony Turbo (.black)
+http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
+
+#EXTINF:-1 tvg-id="311" tvg-logo="http://epg.one/img2/311.png", Channel Red
+http://193.25.8.59:8000/set
+
+#EXTINF:-1 tvg-id="516" tvg-logo="http://epg.one/img2/516.png", SCI-FI
+http://176.118.197.125/SCI-FI/index.m3u8
