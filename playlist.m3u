@@ -431,6 +431,9 @@ https://mhd116.iptv2022.com/x/pDoHVa-hK8BxgkV0v_DINA,1768334109/streaming/luxury
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="2560" tvg-name="1 TV GE" tvg-logo="https://raw.githubusercontent.com/iFrez/EPG-EdemTV/master/img/2560.png" group-title="Georgia", 1 TV (პირველი არხი)
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="2 TV GE" group-title="Georgia",2 TV (მეორე არხი)
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" tvg-id="2561" tvg-name="GDS GE" tvg-logo="https://raw.githubusercontent.com/iFrez/EPG-EdemTV/master/img/2561.png" group-title="Georgia", GDS
 https://live1.mar.tv/2c89b483dd85b855810231ede0789a753c8d51d9624bcc88a2ca2ab733f2ee59/13sd/index.m3u8
 
