@@ -443,6 +443,4 @@ https://r2-live.cdn.itv.re/r2/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv1-live.cdn.itv.re/tv1/index.m3u8
 
-#EXTINF:-1 group-title="Georgia",Formula
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://formula-live.cdn.itv.re/formula/index.m3u8
+
