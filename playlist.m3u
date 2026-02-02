@@ -437,12 +437,13 @@ https://mhd116.iptv2022.com/x/pDoHVa-hK8BxgkV0v_DINA,1768334109/streaming/luxury
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?start=${start}&end=${end}" tvg-id="1TV GE" tvg-logo="https://raw.githubusercontent.com/iFrez/EPG-EdemTV/master/img/2560.png" group-title="Georgia", 1 TV (პირველი არხი)
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-name="2 TV GE" group-title="Georgia",2 TV (მეორე არხი)
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 
 # GDS — EPG id: GDS TV GE
 # (მრავალი CDN-ი GDS-ს catchup არ აძლევს; ამიტომ catchup ამოღებულია)
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?start=${start}&end=${end}" tvg-id="GDS GE" tvg-logo="https://raw.githubusercontent.com/iFrez/EPG-EdemTV/master/img/2561.png" group-title="Georgia", GDS
-https://live1.mar.tv/2c89b483dd85b855810231ede0789a753c8d51d9624bcc88a2ca2ab733f2ee59/13sd/index.m3u8
+https://live1.mar.tv/95a18076d210dc83dcca32b4799f08b7e9cd4eadfc065b6f87fb5e1b91124636/13sd/index.m3u8
 
 
 
@@ -455,25 +456,22 @@ https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
 # Rustavi 2 — EPG id: Rustavi 2 GE
 # (თუ შენს Rustavi CDN-ს catchup API აქვს, შემატებ, ჩავამატებ)
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?start=${start}&end=${end}"  tvg-id="Rustavi2 GE" tvg-logo="https://raw.githubusercontent.com/iFrez/EPG-EdemTV/master/img/4291.png" group-title="Georgia", Rustavi 2
-https://tbs01-edge19.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8?token=GQuPCRSfk7H5-RFvZuvM0l_17vcOQV6T4Dz7LSX08Cp7gkvX7TKio3ynhkpgTbKyCA-imrRbBtTeU8QAVHzNsjwWN0RsgyJ-k5YYRMLTLToFjGc9xT7SLaGElAIAZHNbyM83br9NFXyTCKkN_Usseit05Qj0X_eHMd5gYBcT-7L1L9N6HlpEdsiLFVpaylovag3SH1krdhUsiUHxp8qJqZALIkZi0YIuOdY6f4QntNPNvWRZ2PyjYcujdIk_40SYtZ030P5xe2pGMxFeR5Um1qkfIIpqHpzjJ2bV2fclZZjlQbf300pfPkSz5uk_rqW8
-
+https://tbs01-edge07.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8?token=z0Qwoff_RvOBs6Re63DP5c5vSP6vloWdILTJ4rhRmk2R5FDvUAhfX1EW1ED1wIMpT17YtUx3SnM9W1RdyN6nGejS1ncRilSuapwivNUt96q_D3L6rZqSLYC3bBkaazw5uk-5njiuvggvnt27QHc9cfdG9fwdU10Az4O-NuVouLaPnY8g2TWJe_NdqNgBHMLYai2o_PGsdBEcXOXtxUayHTSiWDOENQ0HtQC8wHdTttTj4XudPkuZ9zoJRNDDYVvz7Gfv1ujcotsplTO4snz-lAS2SyDgcC77ETCwJbyEcdtId3Asar_AfZGRNI2Ekrxi
 
 
 # TV Pirveli — EPG id: Pirveli GE — catchup ჩართული (მუშაობდა შენთან)
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?start=${start}&duration=${duration}" tvg-id="2565" tvg-name="Pirveli GE" tvg-logo="https://raw.githubusercontent.com/iFrez/EPG-EdemTV/master/img/2565.png" group-title="Georgia", TV Pirveli
-https://tbs01-edge34.itdc.ge/pirvelitv/tracks-v1a1/mono.m3u8?token=tJUbsJ6Bpv5zRwEl0ks9tJGnr4FhGWaPJdmudaBYYwAv7OELCKUXJQT_IHcsHPpvdg26qcwFaw1DjIhfscw8tHU9PgdLzGUJezs0MjZK6NuA8NPQlxTAxi14MmciHLwx5jZ0UQKDMffcoOrlrQhrFNzWIvJBWuxgG8613r_ZHenRyRfqy5zfst2VZT6q82WFiH2uUhbIIjws5jW-H3S-WQHUqjZy0rQeSk_5i90kTR9d6h0OcG51nTqF4_jo1B42Qq16JjD5AJVT_DP3OklilWQqrSwkaGK3Jnfm_RDgiwfKERelgTv31fKYDEsu_xRu
-
+https://tbs01-edge36.itdc.ge/pirvelitv/index.m3u8?token=hfkdjQYhnMGMU3j4eIur99hCK6CfcygwTk7kCy80p1QRhNTUXr0UhfUMrUVyDAn7piQCLSLQxsTdFyzuTog_pWz1N_9fYW2tEgn8MBb2zkg4FHov7wuCPR1mKJubY6W5HVNjE2VIRrgm2mjstxJdO18vfMCqsNDi0LcTC0_lWbFXVhn30ZzvWwQ_-P1LMs0NPgDhcWFIuAY73hrLV9X3G12XzbY3FyqAUxQPTwY2kwbE4ZO2SQ0KECpxYhNm16TPeXXAQiLZ5tbMFmCd_o5H2wbkHvThoFQGa0B7OzdgjU5lgBuO27DV-rPdRk6LGFYC
 
 
 # Formula — EPG id: FORMULA GE — catchup ჩართული
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?start=${start}&end=${end}"  tvg-id="FORMULA GE" tvg-logo="https://raw.githubusercontent.com/iFrez/EPG-EdemTV/master/img/4273.png" group-title="Georgia", Formula
-https://tbs01-edge32.itdc.ge/formula/tracks-v1a1/mono.m3u8?token=u0xRFAZDfS1wS1C_6dPp2YwlAaut7s3EI9l_ADzmsv8SWeL8FduG-dN1id8zxNER9A691Hfo5r4prSaHLWFALlM-tZxI8xfPDijAxCrJBm4qYWmtPTv3-YtsJmYT2i2MDqKCecONKMsHX6bxjfHaWvhyLii_n35R4De-NQGMMWYOOsGFnzVJnfwAX8PDUpE1Vwm2NQ_Am97-YQ3NDkLsgwT0EnEFQS6OSEW2pQjRObc0960jRYOb543XuD-cl21zsbGMnkCWkwlBByk-Gg7zYT5daK-TF6ruifqdw4kNoosKmHF9ePY4foLDABN-EKo6
-
+https://tbs01-edge19.itdc.ge/formula/index.m3u8?token=PwVR6WbCHVgLaJKl74kSOsZtEEgzRudX3repBjtIfkykJdV4rSIkVSo_u8yQS7lzuwaGtkOwFyXmbW0i6d1c9nCdjhFI3gLMOnGXIMb8nLk_PF8wzQtwLgWXH2abL2f3Q_GTdSFiuuAVrw67HrAH8irW-GXyr7cPqBWA3h8Y3lmh6gCqBui-JAfIw16GMCd0PwEORpF8QbK3pk4fJbOU5kneGUDDqau1nCPFcbKhRo7iQmTD0a9M6AS25Lto_ogwNpUwQBzVPmKeu7dcIn3lSgN8L4ARdC3qVVft-C7jMS6yaLtOXWmhgQfKg-Ehp_Xz
 
 
 # Comedy Arkhi — EPG id: Comedy GE — catchup ჩართული
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?start=${start}&end=${end}"  tvg-id="Comedy GE" tvg-logo="https://raw.githubusercontent.com/iFrez/EPG-EdemTV/master/img/4269.png" group-title="Georgia", Comedy Arkhi
-https://tbs01-edge34.itdc.ge/comedy/tracks-v1a1/mono.m3u8?token=pAvvbR40ao5yV-YmzA7_niQRajK7DM22HQPkcWzII0n_jRuiaNvyFjGhyi0mZI1iI1O3FZH3NEZxpGkCm7nVwTUVyJZur-9aggHlPy8Yklqhtq4SmmCKPgH1Io89JL5EP4P4RAKgNeRpcu1-Wxf6ZfKMz9seAtjh2ErV3Kg6Q8P-ftJPNJAqtQdwJSDEUWwbmgR5jTei5bGiKx0sFDN1PhGU9xRfbGWXzeZ0_xJnhVhqDjLvioypJAwI1e_sPt5oBFliIMGkEEu4S6to-Ybt4gSJES5TMBJ-WugtzHPx8OpPbAWMLxKdXs5Nc50uBrXb
+https://tbs01-edge19.itdc.ge/comedy/index.m3u8?token=7URpfUa8tzZsqi0CPn7EtU5p5FRsdNtB8MjOF0NhQLEM8uyPChAy2LCe30rMrhvlOKqpp2TWKrJHx0duzSp5gPteex98P5QxeXakvncAm1YCG2QrfFMCUtkJBWqRxsgwoBmm3D8WYnJf6hodgYkv9WmXmOBd3u2YKOJu6ifY-FIj7Y3NqADoq1bj6uNB0NSuvR8nVtSjDcB5iHHefUbFWcwG1Y7_GblMOmOlGEE8uY5EGCHfck60a6dG8x1p4AHa1iK_phF1Mp8DeEwQWx0iXC25cFo4CJJiL7iPG0bwgjz0ISgnrPf0hlFs1edWx2w4
